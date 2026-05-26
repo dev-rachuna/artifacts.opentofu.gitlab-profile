@@ -17,5 +17,10 @@
 <td><a href="https://gitlab.com/dev.rachuna/artifacts/opentofu/gitlab-project/-/releases"><img src="https://gitlab.com/dev.rachuna/artifacts/opentofu/gitlab-project/-/badges/release.svg" alt=""></a></td>
 <td>Moduł Opentofu do zarządzania projektami w GitLab</td>
 </tr>
+<tr>
+<td><a href="https://gitlab.com/dev.rachuna/artifacts/opentofu/proxmox-container">proxmox-container</a></td>
+<td><a href="https://gitlab.com/dev.rachuna/artifacts/opentofu/proxmox-container/-/releases"><img src="https://gitlab.com/dev.rachuna/artifacts/opentofu/proxmox-container/-/badges/release.svg" alt=""></a></td>
+<td>Moduł opentofu do zarządzanie kontenerami LXC (CT) w środowisku Proxmox VE.</td>
+</tr>
 </tbody>
 </table>
