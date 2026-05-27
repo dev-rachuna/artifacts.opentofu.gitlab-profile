@@ -22,5 +22,10 @@
 <td><a href="https://gitlab.com/dev.rachuna/artifacts/opentofu/proxmox-container/-/releases"><img src="https://gitlab.com/dev.rachuna/artifacts/opentofu/proxmox-container/-/badges/release.svg" alt=""></a></td>
 <td>Moduł opentofu do zarządzanie kontenerami LXC (CT) w środowisku Proxmox VE.</td>
 </tr>
+<tr>
+<td><a href="https://gitlab.com/dev.rachuna/artifacts/opentofu/vault-userpass-account">vault-userpass-account</a></td>
+<td><a href="https://gitlab.com/dev.rachuna/artifacts/opentofu/vault-userpass-account/-/releases"><img src="https://gitlab.com/dev.rachuna/artifacts/opentofu/vault-userpass-account/-/badges/release.svg" alt=""></a></td>
+<td>Moduł OpenTofu do tworzenia kont userpass w Vault — generuje hasło, tworzy użytkownika, zapisuje w KV, ustawia polityki</td>
+</tr>
 </tbody>
 </table>
